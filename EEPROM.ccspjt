@@ -1,0 +1,73 @@
+[PROJECT]
+Target=EEPROM.hex
+Processor_Text=PIC16F887
+CCSVersion=5.076
+Compiler=PCM
+[Target Data]
+FileList=EEPROM.c
+[EEPROM.c]
+Type=4
+[mru-list]
+1=EEPROM.c
+
+[defines]
+buildcount=15
+
+[Opened Files]
+1=..\ALARMAEEPROM\ALARMAEEPROM.c
+t1=9
+Count=1
+2=..\conversor\conversor.c
+t2=2
+3=..\ALARMAEEPROM\ALARMAEEPROM.c
+t3=2
+4=..\1.5.1pasoapaso\AlarmaLcdPasoPaso.c
+t4=101
+
+[ProjectLog]
+Days=4
+D1=14-03-2021
+D1_L=19
+D1_L1=[50088]Stopped Editing.
+TotalEdit=17
+TotalDebug=0
+D1_E=17
+D1_D=0
+D1_L2=[50088]Project Closed.
+D1_L3=[63610]Project Opened.
+D1_L4=[63896]Started Editing.
+D1_L5=[64196]Stopped Editing.
+D1_L6=[64846]Started Editing.
+D1_L7=[65927]Stopped Editing.
+D1_L8=[66817]Started Editing.
+D1_L9=[67124]Stopped Editing.
+D1_L10=[67313]Started Editing.
+D1_L11=[67773]Stopped Editing.
+D1_L12=[67908]Project Closed.
+D1_L13=[80100]Project Opened.
+D1_L14=[80734]Project Closed.
+D1_L15=[80758]Project Opened.
+D1_L16=[80847]Started Editing.
+D1_L17=[81139]Project Closed.
+D1_L18=[81145]Project Opened.
+D1_L19=[81590]Project Closed.
+D2=15-03-2021
+D2_L=2
+D2_L1=[25979]Project Opened.
+D2_L2=[32684]Project Closed.
+D3=21-03-2021
+D3_L=5
+D3_L1=[45434]Project Opened.
+D3_L2=[46834]Started Editing.
+D3_L3=[47134]Stopped Editing.
+D3_L4=[47653]Started Editing.
+D3_L5=[48175]Project Closed.
+D4=03-04-2021
+D4_L=1
+D4_L1=[60631]Project Opened.
+
+[fileformats]
+forcecoff=0
+[Units]
+Count=1
+1=EEPROM (main)
